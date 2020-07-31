@@ -8,3 +8,4 @@ eclipse 설치부터 apache-tomcat 연동, mysql(CRUD 구현), 웹페이지(boot
   * tomcat 연동
   * mysql connector 다운로드(8.0.20)
   * bootstrap 다운로드 및 버튼, 테이블 적용 테스트
+> https://ujin-dev.tistory.com/9
